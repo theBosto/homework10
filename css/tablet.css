@@ -1,0 +1,25 @@
+@media (max-width: 745px) {
+    header {
+        padding: 32px 24px;
+    }
+}
+
+@media (max-width: 691px) {
+    .header_nav {
+        display: none;
+    }
+
+    .header_button {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+}
+
+@media (max-width: 540px) {
+    .section1 {
+        height: 240px;
+        padding: 42px 21px;
+    }
+}
