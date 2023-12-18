@@ -1,0 +1,13 @@
+@media (max-width: 600px) {
+    footer {
+        text-align: center;
+    }
+
+    .columns {
+        width: 100%;
+        column-gap: 0;
+        justify-content: space-between;
+    }
+
+}
+
